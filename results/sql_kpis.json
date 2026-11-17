@@ -1,0 +1,15 @@
+{
+  "sql": {
+    "cancel_amazon": 0.1279,
+    "cancel_merchant": 0.1747,
+    "blr_lines": 13110,
+    "pins_for_80pct": 44
+  },
+  "pandas": {
+    "cancel_amazon": 0.1279,
+    "cancel_merchant": 0.1747,
+    "blr_lines": 13110,
+    "pins_for_80pct": 44
+  },
+  "match": true
+}

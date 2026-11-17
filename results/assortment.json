@@ -1,0 +1,57 @@
+{
+  "validation_mean_coverage_by_alpha": {
+    "0.0": 0.5463,
+    "0.5": 0.5872,
+    "1.0": 0.5972,
+    "2.0": 0.6088,
+    "4.0": 0.6128,
+    "8.0": 0.6166,
+    "16.0": 0.6186,
+    "32.0": 0.619,
+    "64.0": 0.6188
+  },
+  "chosen_alpha": 32.0,
+  "train_lines": 7890,
+  "test_lines": 3691,
+  "backtest": [
+    {
+      "slots": 500,
+      "style_first": 0.3511,
+      "local_only": 0.346,
+      "size_level": 0.3522,
+      "oracle_ceiling": 0.5459
+    },
+    {
+      "slots": 1000,
+      "style_first": 0.4779,
+      "local_only": 0.4644,
+      "size_level": 0.5072,
+      "oracle_ceiling": 0.7483
+    },
+    {
+      "slots": 1500,
+      "style_first": 0.5841,
+      "local_only": 0.5451,
+      "size_level": 0.6242,
+      "oracle_ceiling": 0.8838
+    },
+    {
+      "slots": 2000,
+      "style_first": 0.657,
+      "local_only": 0.6058,
+      "size_level": 0.6922,
+      "oracle_ceiling": 1.0
+    },
+    {
+      "slots": 3000,
+      "style_first": 0.7735,
+      "local_only": 0.7323,
+      "size_level": 0.8112,
+      "oracle_ceiling": 1.0
+    }
+  ],
+  "style_first_slots_to_match_size_level_1000": 1140,
+  "slot_saving_pct": 0.1228,
+  "style_level_badge_mispromise_rate": 0.2315,
+  "share_of_june_lines_on_hub_styles": 0.66
+}

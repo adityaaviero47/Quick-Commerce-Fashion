@@ -1,0 +1,39 @@
+{
+  "order_lines": 128975,
+  "date_range": [
+    "2022-03-31",
+    "2022-06-29"
+  ],
+  "top_city": "BENGALURU",
+  "blr_order_lines": 13110,
+  "blr_styles": 1042,
+  "blr_skus": 3881,
+  "blr_pin_codes": 107,
+  "blr_pins_for_80pct_demand": 44,
+  "blr_skus_for_50pct_demand": 552,
+  "blr_skus_for_80pct_demand": 1748,
+  "june_blr_lines_on_sku_unsold_in_blr_before": 0.2566,
+  "june_blr_lines_on_style_unsold_in_blr_before": 0.0322,
+  "size_mix_blr": {
+    "L": 0.181,
+    "XL": 0.174,
+    "M": 0.171,
+    "XXL": 0.14,
+    "S": 0.122,
+    "3XL": 0.118,
+    "XS": 0.076,
+    "6XL": 0.006,
+    "5XL": 0.006,
+    "4XL": 0.004,
+    "Free": 0.003
+  },
+  "cancel_rate_by_fulfilment": {
+    "Amazon": 0.1279,
+    "Merchant": 0.1747
+  },
+  "cancel_rate_by_fulfilment_blr": {
+    "Amazon": 0.1068,
+    "Merchant": 0.144
+  },
+  "cancel_rate_overall": 0.1421
+}
