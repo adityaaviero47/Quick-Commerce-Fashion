@@ -1,6 +1,6 @@
 # Quick-Commerce Fashion: Hub Assortment, Size Availability & PRD
 
-![ci](https://github.com/adityaaviero47/quick-commerce-size-availability/actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/adityaaviero47/Quick-Commerce-Fashion/actions/workflows/ci.yml/badge.svg)
 
 **The question:** if a fashion brand runs a 60-minute delivery hub in Bengaluru, which sizes should the hub stock, and how should the product page promise "60 minutes" without breaking that promise?
 
